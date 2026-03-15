@@ -1,0 +1,6 @@
+本项目是基于 Vue 3 + Spring Boot 3+ COS + WebSocket 的 AI企业官网快速生成平台 后端代码      作者: 张凯宇 段钰云 常明亮 （AI创新小组）
+SpringBoot3 + Langchain4j + LangGraph4j 
+部署：1.maven配置
+https://www.codefather.cn/post/1836689783992958977#heading-2
+2.依赖件导入
+3.数据库部署
